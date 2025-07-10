@@ -1,20 +1,7 @@
 {
     "status": "ok",
-    "totalResults": 53458,
+    "totalResults": 53457,
     "articles": [
-        {
-            "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
-            },
-            "author": "Business Wire",
-            "title": "Mad Coffee Unveils a Groundbreaking Approach to Premium Iced Coffee",
-            "description": "Genecis Bioindustries debuts a sleek, new consumer brand that is redefining the instant coffee experience TORONTO — Pioneering biotech company, Genecis Bioindustries, announces today the launch of its newest consumer brand, Mad Coffee, delivering a bold, firs…",
-            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mad-coffee-unveils-a-groundbreaking-approach-to-premium-iced-coffee",
-            "urlToImage": null,
-            "publishedAt": "2025-07-09T12:13:34Z",
-            "content": "Genecis Bioindustries debuts a sleek, new consumer brand that is redefining the instant coffee experience\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your… [+8263 chars]"
-        },
         {
             "source": {
                 "id": null,
